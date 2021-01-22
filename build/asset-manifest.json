@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ervanari/personal-vanramnit.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ervanari/personal-vanramnit.git/static/js/main.eabbee38.chunk.js",
+    "main.js.map": "/ervanari/personal-vanramnit.git/static/js/main.eabbee38.chunk.js.map",
+    "runtime-main.js": "/ervanari/personal-vanramnit.git/static/js/runtime-main.4d1021e5.js",
+    "runtime-main.js.map": "/ervanari/personal-vanramnit.git/static/js/runtime-main.4d1021e5.js.map",
+    "static/js/2.b26316f6.chunk.js": "/ervanari/personal-vanramnit.git/static/js/2.b26316f6.chunk.js",
+    "static/js/2.b26316f6.chunk.js.map": "/ervanari/personal-vanramnit.git/static/js/2.b26316f6.chunk.js.map",
+    "static/js/3.b55a748f.chunk.js": "/ervanari/personal-vanramnit.git/static/js/3.b55a748f.chunk.js",
+    "static/js/3.b55a748f.chunk.js.map": "/ervanari/personal-vanramnit.git/static/js/3.b55a748f.chunk.js.map",
+    "index.html": "/ervanari/personal-vanramnit.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ervanari/personal-vanramnit.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b26316f6.chunk.js.LICENSE.txt": "/ervanari/personal-vanramnit.git/static/js/2.b26316f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d1021e5.js",
+    "static/js/2.b26316f6.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.eabbee38.chunk.js"
+  ]
+}
