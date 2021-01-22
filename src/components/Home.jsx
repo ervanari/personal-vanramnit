@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { button } from 'react-router-dom';
+// import { button } from 'react-router-dom';
 
 class Home extends Component {
     render() {
@@ -57,7 +57,7 @@ class Home extends Component {
               <div className="column right">
                 <div className="text">I'm Ervan and I'm a <span className="typing-2" /></div>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi ut voluptatum eveniet doloremque autem excepturi eaque, sit laboriosam voluptatem nisi delectus. Facere explicabo hic minus accusamus alias fuga nihil dolorum quae. Explicabo illo unde, odio consequatur ipsam possimus veritatis, placeat, ab molestiae velit inventore exercitationem consequuntur blanditiis omnis beatae. Dolor iste excepturi ratione soluta quas culpa voluptatum repudiandae harum non.</p>
-                <a href="#">Download CV</a>
+                <a href="">Download CV</a>
               </div>
             </div>
           </div>
@@ -101,7 +101,7 @@ class Home extends Component {
               <div className="column left">
                 <div className="text">My creative skills &amp; experiences.</div>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, ratione error est recusandae consequatur, iusto illum deleniti quidem impedit, quos quaerat quis minima sequi. Cupiditate recusandae laudantium esse, harum animi aspernatur quisquam et delectus ipsum quam alias quaerat? Quasi hic quidem illum. Ad delectus natus aut hic explicabo minus quod.</p>
-                <a href="#">Read more</a>
+                <a href="">Read more</a>
               </div>
               <div className="column right">
                 <div className="bars">
@@ -243,7 +243,7 @@ class Home extends Component {
               </div>
               <div className="column right">
                 <div className="text">Message me</div>
-                <form action="#">
+                <form action="">
                   <div className="fields">
                     <div className="field name">
                       <input type="text" placeholder="Name" required />
@@ -269,7 +269,7 @@ class Home extends Component {
         
         {/* footer section start */}
         <footer>
-          <span>Created By <a href="#">Vanramnit</a> | <span className="far fa-copyright" /> 2021 All rights reserved.</span>
+          <span>Created By <a href="">Vanramnit</a> | <span className="far fa-copyright" /> 2021 All rights reserved.</span>
         </footer> 
         
       </div>
